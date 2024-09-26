@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jozcycn.github.io/sitemap.jozcycn.gz
+Sitemap: https://jozcycn.github.io/app/sitemap.jozcycn.gz
+Sitemap: https://jozcycn.github.io/assets/sitemap.jozcycn.gz
+Sitemap: https://jozcycn.github.io/css/sitemap.jozcycn.gz
+Sitemap: https://jozcycn.github.io/data/sitemap.jozcycn.gz
+Sitemap: https://jozcycn.github.io/includes/sitemap.jozcycn.gz
+Sitemap: https://jozcycn.github.io/item/sitemap.jozcycn.gz
+Sitemap: https://jozcycn.github.io/src/sitemap.jozcycn.gz
